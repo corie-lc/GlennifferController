@@ -14,8 +14,9 @@
    - OpenCV will find the receipt, pick it up and throw it. If Glenniffer can't find it, she will pull a recept from storage
 
 # Robot Gallary (Its a mess, ill get to it)
-![1]([http://url/to/img.png](https://github.com/corie-lc/GlennifferController/blob/master/robot_pics/1.jpg)https://github.com/corie-lc/GlennifferController/blob/master/robot_pics/1.jpg)
-![2]([http://url/to/img.png](https://github.com/corie-lc/GlennifferController/blob/master/robot_pics/1.jpg)https://github.com/corie-lc/GlennifferController/blob/master/robot_pics/2.jpg)
-![3]([http://url/to/img.png](https://github.com/corie-lc/GlennifferController/blob/master/robot_pics/1.jpg)https://github.com/corie-lc/GlennifferController/blob/master/robot_pics/3.jpg)
-![4]([http://url/to/img.png](https://github.com/corie-lc/GlennifferController/blob/master/robot_pics/1.jpg)https://github.com/corie-lc/GlennifferController/blob/master/robot_pics/4.jpg)
+![1](https://github.com/corie-lc/GlennifferController/assets/95305526/ce190bb2-0e18-4183-b13e-ed35569d9796)
+![2](https://github.com/corie-lc/GlennifferController/assets/95305526/1e0d677c-889b-4460-8e97-8e1c35ab3bf5)
+![3](https://github.com/corie-lc/GlennifferController/assets/95305526/10528e37-2e20-41fe-9d6a-95c2e24ff8e3)
+![4](https://github.com/corie-lc/GlennifferController/assets/95305526/48f7aefb-fa6b-47bf-b7e6-fbead0ce3b71)
+
 
