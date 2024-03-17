@@ -14,8 +14,8 @@
    - OpenCV will find the receipt, pick it up and throw it. If Glenniffer can't find it, she will pull a recept from storage
 
 # Robot Gallary (Its a mess, ill get to it)
- /robot_pics/1.jpg
-  /robot_pics/2.jpg
- /robot_pics/3.jpg
- /robot_pics/4.jpg
+![1]([http://url/to/img.png](https://github.com/corie-lc/GlennifferController/blob/master/robot_pics/1.jpg)https://github.com/corie-lc/GlennifferController/blob/master/robot_pics/1.jpg)
+![2]([http://url/to/img.png](https://github.com/corie-lc/GlennifferController/blob/master/robot_pics/1.jpg)https://github.com/corie-lc/GlennifferController/blob/master/robot_pics/2.jpg)
+![3]([http://url/to/img.png](https://github.com/corie-lc/GlennifferController/blob/master/robot_pics/1.jpg)https://github.com/corie-lc/GlennifferController/blob/master/robot_pics/3.jpg)
+![4]([http://url/to/img.png](https://github.com/corie-lc/GlennifferController/blob/master/robot_pics/1.jpg)https://github.com/corie-lc/GlennifferController/blob/master/robot_pics/4.jpg)
 
