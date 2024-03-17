@@ -14,7 +14,7 @@ public class Main {
 
     private static void prepareGlenniferControllers(){
         // main frame settings
-        JFrame frame = new JFrame("FrameDemo");
+        JFrame frame = new JFrame("GlennifferController");
 
 
 
