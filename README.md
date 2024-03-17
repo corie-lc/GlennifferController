@@ -12,4 +12,10 @@
    - Use the Raspberry Pi camera & OpenCV to find a cats face (demo created, just need to attach camera)
    - Pick up receipts, crumple (for sound) and throw the receipt (my cat wont play with any toys, but will chase receipts)
    - OpenCV will find the receipt, pick it up and throw it. If Glenniffer can't find it, she will pull a recept from storage
-   - 
+
+# Robot Gallary (Its a mess, ill get to it)
+ /robot_pics/1.jpg
+  /robot_pics/2.jpg
+ /robot_pics/3.jpg
+ /robot_pics/4.jpg
+
